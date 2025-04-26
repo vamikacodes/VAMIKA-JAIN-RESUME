@@ -73,37 +73,6 @@ The website consists of the following sections:
 8. **Contact**: Contact information section
 9. **Footer**: Copyright information and additional details
 
-## Customization
-
-To customize this portfolio:
-
-### Changing Content
-
-1. Edit the text in `index.html` to update personal information
-2. Replace images in the `images-vamika-resume/` directory with your own
-3. Update links in navigation or contact sections as needed
-
-### Modifying Styles
-
-1. The color scheme can be changed by editing the color values in `style.css`
-2. Font styles can be modified in the CSS file
-3. Layout adjustments can be made in the respective section styles
-
-### Adding New Sections
-
-1. Create a new section in `index.html` following the existing structure pattern
-2. Add corresponding styles in `style.css`
-3. Update the navigation menu to include the new section
-
-## Future Improvements
-
-Potential enhancements for this portfolio website:
-
-- Add a blog section for sharing articles and thoughts
-- Implement a contact form with form validation
-- Add dark/light mode toggle
-- Incorporate subtle animations for section transitions
-- Add project showcase section with detailed project descriptions
 
 ## License
 
